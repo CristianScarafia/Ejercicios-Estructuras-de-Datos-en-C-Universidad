@@ -55,3 +55,4 @@ void analiza(arbol a, int nivelact, int n, int *min){
         }
     }
 }
+//prueba
