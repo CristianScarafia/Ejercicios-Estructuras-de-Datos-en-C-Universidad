@@ -36,5 +36,4 @@ int analiza(int mat[][4],int i, int j, int sumnodoact,int n, int k){
         return 0;
     }
 
-
 }

@@ -1,0 +1,12 @@
+Ej 1.- Sea un digrafo de N vértices, almacenado en una matriz de adyacencia. Desarrollar una sola función entera para determinar 
+si todos los vértices poseen bucles y tienen el mismo grado de salida.
+El recorrido sobre la matriz debe ser recursivo, en caso de utilizar ciclos se restará la mitad del puntaje
+Mostrar la invocación de la solución desarrollada
+
+Ej 2.- Dado un árbol binario de enteros que proviene de la transformación de un árbol general hallar la cantidad 
+de nodos que en el árbol general estaban en el nivel K y eran de grado K (K dato de entrada).
+Mostrar la invocación de la función desarrollada
+
+Ej 3.- (Utilizar TDA N.Ario) Dado un árbol N-ario, verificar la existencia de algún nodo cuya clave es menor 
+que la de su hermano a izquierda y mayor que la de su hermano a derecha.
+Mostrar la invocación de la función desarrollada
