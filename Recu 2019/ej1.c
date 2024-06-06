@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include "tdanario.h"
 
 int main(){
     /*arbol a;
